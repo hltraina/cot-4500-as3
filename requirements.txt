@@ -1,1 +1,2 @@
-
+This code uses the "numpy" package in Python
+This code was developed using PyCharm
